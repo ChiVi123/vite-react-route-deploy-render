@@ -1,5 +1,6 @@
 {
     "name": "vite-react-router-deploy-render",
+    "homepage": "https://vite-react-route-deploy-render.onrender.com/",
     "private": true,
     "version": "0.0.0",
     "type": "module",
